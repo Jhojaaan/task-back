@@ -48,9 +48,6 @@ Sigue estos pasos para instalar y configurar el proyecto.
     ```bash
     php artisan serve
 
-
-
-
-
-
-    
+Podrás acceder al sistema con estos 2 usuarios. 
+admin@gmail.com:admin123 (Administrador)
+user1@gmail.com:user123 (usuario)   
